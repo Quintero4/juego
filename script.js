@@ -1,4 +1,4 @@
-const display = document.getElementById('display');
+https://quintero4.github.io/juego/const display = document.getElementById('display');
 const lastKey = document.getElementById('lastKey');
 const sound = document.getElementById('sound');
 const background = document.getElementById('background');
@@ -6,7 +6,7 @@ const background = document.getElementById('background');
 const letras = {
     'a': {
         texto: 'A de Abuela 👵',
-        imagen: 'images/abuela.jpg'
+        imagen: './images/abuela.jpg'
     },
     'b': {
         texto: 'B de Beso 🐶',
