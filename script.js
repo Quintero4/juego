@@ -6,7 +6,7 @@ const background = document.getElementById('background');
 const letras = {
     'a': {
         texto: 'A de Abuela 👵',
-        imagen: './images/abuela.jpg'
+        imagen: 'images/abuela.jpg'
     },
     'b': {
         texto: 'B de Beso 🐶',
