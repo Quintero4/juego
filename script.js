@@ -1,4 +1,4 @@
-https://quintero4.github.io/juego/const display = document.getElementById('display');
+const display = document.getElementById('display');
 const lastKey = document.getElementById('lastKey');
 const sound = document.getElementById('sound');
 const background = document.getElementById('background');
